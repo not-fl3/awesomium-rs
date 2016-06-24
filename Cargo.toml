@@ -1,0 +1,7 @@
+[package]
+name = "awesomium"
+version = "0.0.1"
+
+[dependencies]
+awesomium-sys = { path = "./awesomium-sys" }
+
